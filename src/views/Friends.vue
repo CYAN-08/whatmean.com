@@ -51,6 +51,11 @@ export default {
           description: '致力于分享最前端优质内容。',
           url: 'https://blog.na3alf6.cn/'
         },
+                {
+          name: 'CYAN-08的首页',
+          description: '呵呵',
+          url: 'https://space.bilibili.com/3546584337877077?spm_id_from=333.1007.0.0'
+        },
         {
           name: 'Edgeone 官网',
           description: '亚洲最快CDN，本网站正在使用。',
@@ -60,7 +65,7 @@ export default {
           name: 'MineBBS 论坛',
           description: '最大MC中文交流社区。',
           url: 'https://www.minebbs.com/'
-        },
+        }，
         {
           name: 'MDN Web 文档',
           description: '网络开发文档',
@@ -77,7 +82,7 @@ export default {
           url: 'https://stackoverflow.com/'
         },
         {
-          name: '梦涵LOVEの小窝',
+          name: '梦涵LOVEの小窝'，
           description: '一个一个小涵子的小BLOG，一起来分享生活的小确幸吧~',
           url: 'https://heyuhan.huohuo.ink/'
         }
